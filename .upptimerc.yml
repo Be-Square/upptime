@@ -15,9 +15,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://www.besquare.live/public/assets/logo/be_square_logo_white_green.svg
-  name: Upptime
-  introTitle: "**Be Square** is an interactive live streaming platform for today."
-  introMessage: Status page
+  name: Be Square
+#   introTitle:
+#   introMessage:
   navbar:
     - title: Status
       href: /
