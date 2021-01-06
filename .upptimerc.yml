@@ -8,8 +8,8 @@ sites:
     url: https://www.besquare.live
   - name: Test Get Tickets
     url: $TEST_GET_TICKETS_URL
-  - name: Notification test9
-    url: https://www.besquare.live/test9
+  - name: Notification test10
+    url: https://www.besquare.live/test10
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
