@@ -4,10 +4,10 @@
     "url": "https://www.besquare.live",
     "icon": "https://favicons.githubusercontent.com/www.besquare.live",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
@@ -15,17 +15,19 @@
     "timeWeek": 337,
     "timeMonth": 347,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-08": 1
+    }
   },
   {
     "name": "Test Get Tickets",
     "url": "$TEST_GET_TICKETS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test-get-tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 162,
@@ -34,6 +36,7 @@
     "timeMonth": 254,
     "timeYear": 162,
     "dailyMinutesDown": {
+      "2021-05-08": 1,
       "2021-02-25": 1038,
       "2021-02-24": 34
     }
@@ -55,7 +58,7 @@
     "timeMonth": 57,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2021-05-08": 64,
+      "2021-05-08": 863,
       "2021-05-07": 1440,
       "2021-05-06": 1440,
       "2021-05-05": 1440,
