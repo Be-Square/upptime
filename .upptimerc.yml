@@ -6,8 +6,10 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Landing page
     url: https://www.besquare.live
-  - name: Test Get Tickets
+  - name: Test get tickets
     url: $TEST_GET_TICKETS_URL
+  - name: Test ticket ingest
+    url: $TEST_TICKET_INGEST_URL
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
