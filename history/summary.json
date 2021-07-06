@@ -10,18 +10,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 315,
-    "timeDay": 90,
-    "timeWeek": 355,
-    "timeMonth": 251,
-    "timeYear": 315,
+    "time": 314,
+    "timeDay": 83,
+    "timeWeek": 320,
+    "timeMonth": 246,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2021-05-27": 55,
       "2021-05-08": 13
     }
   },
   {
-    "name": "Test Get Tickets",
+    "name": "Test get tickets",
     "url": "$TEST_GET_TICKETS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test-get-tickets",
@@ -31,16 +31,34 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 162,
-    "timeDay": 25,
-    "timeWeek": 201,
-    "timeMonth": 136,
-    "timeYear": 162,
+    "time": 161,
+    "timeDay": 24,
+    "timeWeek": 179,
+    "timeMonth": 133,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2021-05-27": 55,
       "2021-05-08": 13,
       "2021-02-25": 1038,
       "2021-02-24": 34
     }
+  },
+  {
+    "name": "Test ticket ingest",
+    "url": "$TEST_TICKET_INGEST_URL",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "test-ticket-ingest",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1272,
+    "timeDay": 1272,
+    "timeWeek": 1272,
+    "timeMonth": 1272,
+    "timeYear": 1272,
+    "dailyMinutesDown": {}
   }
 ]
