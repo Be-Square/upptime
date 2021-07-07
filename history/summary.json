@@ -4,18 +4,19 @@
     "url": "https://www.besquare.live",
     "icon": "https://favicons.githubusercontent.com/www.besquare.live",
     "slug": "landing-page",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 312,
     "timeDay": 68,
     "timeWeek": 270,
     "timeMonth": 235,
     "timeYear": 312,
     "dailyMinutesDown": {
+      "2021-07-07": 0,
       "2021-05-27": 55,
       "2021-05-08": 13
     }
@@ -25,9 +26,9 @@
     "url": "$TEST_GET_TICKETS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test-get-tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
@@ -37,6 +38,7 @@
     "timeMonth": 126,
     "timeYear": 161,
     "dailyMinutesDown": {
+      "2021-07-07": 0,
       "2021-05-27": 55,
       "2021-05-08": 13,
       "2021-02-25": 1038,
@@ -48,17 +50,19 @@
     "url": "$TEST_TICKET_INGEST_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test-ticket-ingest",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1768,
     "timeDay": 1768,
     "timeWeek": 1768,
     "timeMonth": 1768,
     "timeYear": 1768,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-07": 0
+    }
   }
 ]
