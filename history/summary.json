@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 336,
-    "timeDay": 336,
-    "timeWeek": 300,
-    "timeMonth": 227,
-    "timeYear": 344,
+    "timeDay": 302,
+    "timeWeek": 280,
+    "timeMonth": 226,
+    "timeYear": 343,
     "dailyMinutesDown": {
       "2022-02-24": 24,
       "2021-10-21": 126
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 175,
-    "timeDay": 48,
-    "timeWeek": 121,
-    "timeMonth": 114,
+    "timeDay": 168,
+    "timeWeek": 118,
+    "timeMonth": 115,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2022-02-24": 24,
@@ -47,18 +47,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "test-ticket-ingest",
     "status": "down",
-    "uptime": "73.55%",
+    "uptime": "73.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.23%",
-    "time": 628,
-    "timeDay": 62,
-    "timeWeek": 89,
+    "uptimeYear": "72.13%",
+    "time": 627,
+    "timeDay": 120,
+    "timeWeek": 92,
     "timeMonth": 96,
-    "timeYear": 591,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-07-25": 132,
+      "2022-07-26": 147,
+      "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
@@ -165,8 +166,7 @@
       "2021-11-17": 544,
       "2021-10-21": 126,
       "2021-10-18": 706,
-      "2021-10-17": 184,
-      "2021-07-26": 768
+      "2021-10-17": 184
     }
   }
 ]
