@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.16%",
+    "uptimeYear": "94.44%",
     "time": 629,
-    "timeDay": 569,
-    "timeWeek": 598,
-    "timeMonth": 510,
-    "timeYear": 611,
+    "timeDay": 842,
+    "timeWeek": 658,
+    "timeMonth": 519,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2024-06-05": 31,
       "2024-04-04": 260,
@@ -36,8 +36,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -50,11 +49,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.17%",
+    "uptimeYear": "94.45%",
     "time": 192,
-    "timeDay": 117,
-    "timeWeek": 133,
-    "timeMonth": 180,
+    "timeDay": 178,
+    "timeWeek": 139,
+    "timeMonth": 177,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2024-04-04": 260,
@@ -76,8 +75,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -86,18 +84,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-ticket-ingest",
     "status": "down",
-    "uptime": "24.48%",
+    "uptime": "24.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 570,
-    "timeDay": 367,
-    "timeWeek": 1753,
-    "timeMonth": 1739,
-    "timeYear": 677,
+    "time": 575,
+    "timeDay": 2925,
+    "timeWeek": 2138,
+    "timeMonth": 1745,
+    "timeYear": 684,
     "dailyMinutesDown": {
-      "2024-08-31": 97,
+      "2024-09-01": 111,
+      "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
       "2024-08-28": 1440,
@@ -460,8 +459,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   }
 ]
