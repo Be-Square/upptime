@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.besquare.live.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "97.44%",
+    "uptime": "97.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "96.90%",
-    "time": 632,
-    "timeDay": 434,
-    "timeWeek": 680,
-    "timeMonth": 573,
-    "timeYear": 614,
+    "uptimeYear": "97.44%",
+    "time": 631,
+    "timeDay": 457,
+    "timeWeek": 625,
+    "timeMonth": 572,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2024-09-01": 48,
       "2024-06-05": 31,
@@ -26,9 +26,7 @@
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
-      "2023-09-14": 1440,
-      "2023-09-13": 1440,
-      "2023-09-12": 1440
+      "2023-09-14": 1440
     }
   },
   {
@@ -41,12 +39,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "96.90%",
+    "uptimeYear": "97.45%",
     "time": 192,
-    "timeDay": 99,
-    "timeWeek": 139,
-    "timeMonth": 169,
-    "timeYear": 211,
+    "timeDay": 100,
+    "timeWeek": 130,
+    "timeMonth": 161,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2024-09-01": 48,
       "2024-04-04": 260,
@@ -57,9 +55,7 @@
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
-      "2023-09-14": 1440,
-      "2023-09-13": 1440,
-      "2023-09-12": 1440
+      "2023-09-14": 1440
     }
   },
   {
@@ -68,18 +64,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-ticket-ingest",
     "status": "down",
-    "uptime": "24.27%",
+    "uptime": "24.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 577,
-    "timeDay": 442,
-    "timeWeek": 454,
-    "timeMonth": 1361,
-    "timeYear": 677,
+    "time": 578,
+    "timeDay": 429,
+    "timeWeek": 434,
+    "timeMonth": 1293,
+    "timeYear": 676,
     "dailyMinutesDown": {
-      "2024-09-10": 99,
+      "2024-09-12": 98,
+      "2024-09-11": 1440,
+      "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
       "2024-09-07": 1440,
@@ -441,9 +439,7 @@
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
-      "2023-09-14": 1440,
-      "2023-09-13": 1440,
-      "2023-09-12": 1440
+      "2023-09-14": 1440
     }
   }
 ]
