@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.35%",
     "time": 742,
-    "timeDay": 281,
-    "timeWeek": 471,
-    "timeMonth": 1394,
-    "timeYear": 804,
+    "timeDay": 608,
+    "timeWeek": 503,
+    "timeMonth": 1403,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2025-03-14": 210,
       "2025-02-18": 23,
@@ -23,8 +23,7 @@
       "2024-09-01": 48,
       "2024-06-05": 31,
       "2024-04-04": 260,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   },
   {
@@ -33,15 +32,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-get-tickets",
     "status": "up",
-    "uptime": "97.72%",
+    "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.36%",
     "time": 316,
-    "timeDay": 105,
-    "timeWeek": 291,
-    "timeMonth": 1118,
+    "timeDay": 188,
+    "timeWeek": 267,
+    "timeMonth": 1117,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2025-03-14": 209,
@@ -49,8 +48,7 @@
       "2025-01-03": 40,
       "2024-09-01": 48,
       "2024-04-04": 260,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   },
   {
@@ -59,18 +57,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-ticket-ingest",
     "status": "down",
-    "uptime": "20.66%",
+    "uptime": "20.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 657,
-    "timeDay": 1391,
+    "timeDay": 526,
     "timeWeek": 754,
-    "timeMonth": 643,
-    "timeYear": 797,
+    "timeMonth": 645,
+    "timeYear": 796,
     "dailyMinutesDown": {
-      "2025-04-01": 124,
+      "2025-04-02": 113,
+      "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -433,8 +432,7 @@
       "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
-      "2024-04-03": 1440,
-      "2024-04-02": 1440
+      "2024-04-03": 1440
     }
   }
 ]
