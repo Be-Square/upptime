@@ -1,7 +1,7 @@
 url: $TEST_GET_TICKETS_URL
 status: up
 code: 200
-responseTime: 129
-lastUpdated: 2026-03-16T23:35:58.819Z
+responseTime: 386
+lastUpdated: 2026-03-17T23:37:55.340Z
 startTime: 2020-12-28T23:15:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
