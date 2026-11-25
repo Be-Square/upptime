@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 534,
-    "timeDay": 322,
-    "timeWeek": 486,
-    "timeMonth": 481,
+    "time": 533,
+    "timeDay": 380,
+    "timeWeek": 483,
+    "timeMonth": 489,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2026-01-09": 33,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 379,
-    "timeWeek": 304,
-    "timeMonth": 299,
-    "timeYear": 220,
+    "timeDay": 303,
+    "timeWeek": 311,
+    "timeMonth": 305,
+    "timeYear": 221,
     "dailyMinutesDown": {
       "2026-01-09": 33
     }
@@ -48,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-ticket-ingest",
     "status": "up",
-    "uptime": "30.94%",
+    "uptime": "30.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.50%",
+    "uptimeYear": "89.76%",
     "time": 311,
-    "timeDay": 207,
-    "timeWeek": 266,
-    "timeMonth": 233,
+    "timeDay": 223,
+    "timeWeek": 242,
+    "timeMonth": 237,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2026-01-01": 1006,
@@ -96,7 +96,6 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440,
       "2026-01-09": 33
     }
   }
